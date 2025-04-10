@@ -1,7 +1,7 @@
 import Web3 from "web3";
 import ABI from "./ABI.json";
 
-const CONTRACT_ADDRESS = "0xbf1828b7006b84fde5fafcb392b2c0fda94c0214";
+const CONTRACT_ADDRESS = "0xbf1828b7006b84fde5fafcb392b2c0fda94c0214"; //Amoy Testnet - Polygon
 
 export async function doLogin(){
 
